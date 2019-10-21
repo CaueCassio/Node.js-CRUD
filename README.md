@@ -22,10 +22,10 @@ POST /projects/:id/tasks: A rota deve receber um campo title e armazenar uma nov
 ## Tecnologias utilizadas:
 <ul>
   <li> <a href=https://nodejs.org/en/> NodeJS </a>
-  <li></li>
+ 
   <a href=https://expressjs.com/pt-br/> Express </a> 
-  <li></li>
-  <a href=https://yarnpkg.com/lang/en/> Yarn </a> </ul>
+
+  <a href=https://yarnpkg.com/lang/en/> Yarn </a> </li> </ul>
 
 ## :memo: Licença
 
